@@ -1,0 +1,25 @@
+﻿
+.description{
+    font-size:larger;
+}
+
+html, body{height:100%;}
+body{
+    color:white;
+ position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    background-image: url(http://wallpapercave.com/wp/2GHkQQC.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.8;
+    filter:alpha(opacity=80);
+}
+.intro {
+    font-size:30px;
+    text-align:center;
+    font-weight:bold;
+}
